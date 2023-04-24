@@ -1,0 +1,109 @@
+body {
+    background-image: url(images/free-website-background-01.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-size: 110px;
+    color: rgb(0, 0, 128);
+}
+
+td {
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid navy;
+    background-color: rgb(128, 128, 128, .3);
+    text-align: center;
+    
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 75px;
+    width: 900px;
+    height: 400px;
+ }
+
+p {
+    color: rgb(60, 60, 60);
+    text-align: center;
+    font-size: 23px;
+}
+
+div#about {
+    align-items: center;
+    max-width: 1000px;
+    background-color: rgb(255, 255, 255, 0.5);
+    margin: auto;
+}
+
+h2 { 
+    font-size: 50px;
+    text-align: center;
+    color: navy;
+}
+
+#navbar {
+    text-align: center;
+    background-color: rgb(128, 128, 128, .5);
+    padding: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    margin-top: 55px;
+  }
+
+img {
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+#images {
+    margin-top: 70px;
+}
+
+a {
+    color: navy;
+    font-size: 30px;
+    margin-left: 40px;
+    
+}
+
+a:hover { 
+    color: orangered;
+}
+
+ul#navbar li {
+    display: inline;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+    color: navy;
+}
+
+#contact {
+    text-align: center;
+    background-color: rgb(128, 128, 128, 0.5);
+}
+
+#contact-footer ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+#contact-footer li {
+    color: navy;
+    font-size: x-large;
+}
